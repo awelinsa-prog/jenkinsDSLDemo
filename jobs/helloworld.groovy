@@ -1,4 +1,4 @@
-job('HelloWorld') {
+job('HelloWorldFromGerrit') {
     description('This job was created using Job DSL')
 
     steps {
